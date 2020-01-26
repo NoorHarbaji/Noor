@@ -7,7 +7,6 @@ export default function App() {
       <h1>Hello Noor</h1>
       <h2>Start editing to see some magic happen!</h2>
       <p>Start editing to see some magic happen!</p>
-      <img src="./public/Noor-Harbaji.JPG" alt="Noor-Harbaji" />
     </div>
   );
 }
