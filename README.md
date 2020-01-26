@@ -1,2 +1,0 @@
-# Noor
-Created with CodeSandbox
